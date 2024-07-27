@@ -1,0 +1,20 @@
+{
+  "name": "exesice",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mime": "^4.0.4",
+    "socket.io": "^4.7.5"
+  }
+}
